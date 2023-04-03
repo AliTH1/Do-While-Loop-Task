@@ -1,0 +1,15 @@
+C:\Users\alita\source\repos\DoWhileLoopTask\bin\Debug\net6.0\DoWhileLoopTask.exe
+C:\Users\alita\source\repos\DoWhileLoopTask\bin\Debug\net6.0\DoWhileLoopTask.deps.json
+C:\Users\alita\source\repos\DoWhileLoopTask\bin\Debug\net6.0\DoWhileLoopTask.runtimeconfig.json
+C:\Users\alita\source\repos\DoWhileLoopTask\bin\Debug\net6.0\DoWhileLoopTask.dll
+C:\Users\alita\source\repos\DoWhileLoopTask\bin\Debug\net6.0\DoWhileLoopTask.pdb
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\DoWhileLoopTask.csproj.AssemblyReference.cache
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\DoWhileLoopTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\DoWhileLoopTask.AssemblyInfoInputs.cache
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\DoWhileLoopTask.AssemblyInfo.cs
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\DoWhileLoopTask.csproj.CoreCompileInputs.cache
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\DoWhileLoopTask.dll
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\refint\DoWhileLoopTask.dll
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\DoWhileLoopTask.pdb
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\DoWhileLoopTask.genruntimeconfig.cache
+C:\Users\alita\source\repos\DoWhileLoopTask\obj\Debug\net6.0\ref\DoWhileLoopTask.dll
